@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "865228360053",
+    "firebase_url": "https://authe-308c0.firebaseio.com",
+    "project_id": "authe-308c0",
+    "storage_bucket": "authe-308c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865228360053:android:213e832575af1e12",
+        "android_client_info": {
+          "package_name": "app.sunny.authe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865228360053-s82kom97qke6btilr9d9rkrv8b0mk9cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.sunny.authe",
+            "certificate_hash": "d24b5f7591c219f0a92d2b99f3cc167dabd39d17"
+          }
+        },
+        {
+          "client_id": "865228360053-d02nkigujc55niu5o06fmiv8fqbklk6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazRnYHYd6z_WlloL2U66XcR7U89FWRXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865228360053-d02nkigujc55niu5o06fmiv8fqbklk6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

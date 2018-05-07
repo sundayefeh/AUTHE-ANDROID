@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" android:id="@+id/h1">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="SCAN" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="HISTORY" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="REVIEW" />
+
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/h2">
+
+            <item
+                android:id="@+id/nav_share"
+                android:title="My Authe" />
+
+            <item
+                android:id="@+id/nav_send"
+                android:title="About" />
+
+            <item
+                android:id="@+id/nav_sends"
+                android:title="Report" />
+            <item
+                android:id="@+id/nav_sendsaa"
+                android:title="Contact" />
+
+            <item
+                android:id="@+id/nav_sendssa"
+                android:title="Settings" />
+
+
+    </group>
+
+</menu>
